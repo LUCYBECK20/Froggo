@@ -1,7 +1,6 @@
 # Froggo
 Froggo is a clone of the 1981 arcade game Frogger. 
-# Built With
-Kivy 
+# Prerequisites
 Follow these instructions to download Kivy: https://kivy.org/doc/stable/gettingstarted/installation.html
 # Launching Froggo
 Download the code as a ZIP file and extract the file. 
