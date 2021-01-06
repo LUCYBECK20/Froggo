@@ -1,0 +1,119 @@
+{ "version"		: 1.0,
+  "size"		: [11,9],
+  "start"		: [5,0],
+  "offscreen"	: 2,
+  "lanes" 		: [
+		{"type":"grass"},
+
+		{
+			"type"   :"road",
+			"speed"  : 200,
+			"objects": [
+                {
+					"type"    : "truck",
+					"position": 0
+				},
+                {
+					"type"    : "car3",
+					"position": 7
+				}
+			]
+		},
+        {
+			"type"   :"road",
+			"speed"  : -220,
+			"objects": [
+                {
+					"type"    : "semitruck",
+					"position": 0
+				},
+                {
+					"type"    : "car1",
+					"position": 10
+				}
+			]
+		},
+		{
+			"type"   : "road",
+			"speed"  : 170,
+			"objects": [
+				{
+					"type"    : "car1",
+					"position": 0
+				},
+				{
+					"type"    : "car2",
+					"position": 6
+				},
+                {
+					"type"    : "car3",
+					"position": 12
+				}
+			]
+		},
+        {"type":"grass"},
+		{
+			"type"	 :"water",
+			"speed"  : 130,
+			"objects": [
+				{
+					"type"    : "turtle_east",
+					"position": 0
+				},
+                {
+					"type"    : "turtle_east",
+					"position": 8
+				}
+			]
+		},
+        {
+			"type"   : "water",
+			"speed"  : -150,
+			"objects": [
+				{
+					"type"    : "log2",
+					"position": 5
+				},
+                {
+					"type"    : "log1",
+					"position": 10
+				}
+			]
+		},
+        {
+			"type"   : "water",
+			"speed"  : 120,
+			"objects": [
+				{
+					"type"    : "log1",
+					"position": 0
+				},
+                {
+					"type"    : "log2",
+					"position": 6
+				},
+                {
+					"type"    : "fly",
+					"position": 6
+				}
+			]
+		},
+		{
+			"type"   : "hedge",
+			"objects": [
+				{
+					"type"    : "exit",
+					"position": 2
+				},
+				{
+					"type"    : "exit",
+					"position": 5
+				},
+				{
+					"type"    : "exit",
+					"position": 8
+				}
+			]
+		}
+	]
+}

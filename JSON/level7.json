@@ -1,0 +1,152 @@
+{ "version"		: 1.0,
+  "size"		: [11,9],
+  "start"		: [5,0],
+  "offscreen"	: 2,
+  "lanes" 		: [
+		{"type":"grass"},
+
+        {
+			"type"   : "water",
+			"speed"  : -150,
+			"objects": [
+				{
+					"type"    : "turtle_west",
+					"position": 0
+				},
+                {
+					"type"    : "turtle_west",
+					"position": 6
+				},
+                {
+					"type"    : "turtle_west",
+					"position": 10
+				}
+			]
+		},
+        {
+			"type"	 :"water",
+			"speed"  : 120,
+			"objects": [
+				{
+					"type"    : "log2",
+					"position": 1
+				},
+				{
+					"type"    : "log1",
+					"position": 9
+				}
+			]
+		},
+        {
+			"type"	 :"water",
+			"speed"  : -160,
+			"objects": [
+				{
+					"type"    : "turtle_west",
+					"position": 2
+				},
+                {
+					"type"    : "turtle_west",
+					"position": 7
+				},
+				{
+					"type"    : "turtle_west",
+					"position": 11
+				}
+			]
+		},
+        {
+			"type"   : "water",
+			"speed"  : 110,
+			"objects": [
+				{
+					"type"    : "log2",
+					"position": 0
+				},
+                {
+					"type"    : "log2",
+					"position": 6
+				},
+                {
+					"type"    : "log1",
+					"position": 10
+				},
+                {
+					"type"    : "fly",
+					"position": 6
+				}
+			]
+		},
+        {
+			"type"	 :"water",
+			"speed"  : -160,
+			"objects": [
+				{
+					"type"    : "turtle_west",
+					"position": 1
+				},
+                {
+					"type"    : "turtle_west",
+					"position": 7
+				},
+				{
+					"type"    : "turtle_west",
+					"position": 12
+				}
+			]
+		},
+        {
+			"type"   : "water",
+			"speed"  : 130,
+			"objects": [
+				{
+					"type"    : "log1",
+					"position": 2
+				},
+                {
+					"type"    : "log2",
+					"position": 8
+				},
+                {
+					"type"    : "log2",
+					"position": 12
+				}
+			]
+		},
+        {
+			"type"   : "water",
+			"speed"  : -140,
+			"objects": [
+				{
+					"type"    : "log1",
+					"position": 0
+				},
+                {
+					"type"    : "log2",
+					"position": 6
+				},
+                {
+					"type"    : "log2",
+					"position": 11
+				}
+			]
+		},
+		{
+			"type"   : "hedge",
+			"objects": [
+				{
+					"type"    : "exit",
+					"position": 2
+				},
+				{
+					"type"    : "exit",
+					"position": 5
+				},
+				{
+					"type"    : "exit",
+					"position": 8
+				}
+			]
+		}
+	]
+}

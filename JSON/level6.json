@@ -1,0 +1,124 @@
+{ "version"		: 1.0,
+  "size"		: [11,9],
+  "start"		: [5,0],
+  "offscreen"	: 2,
+  "lanes" 		: [
+		{"type":"grass"},
+
+        {
+			"type"   : "water",
+			"speed"  : 120,
+			"objects": [
+				{
+					"type"    : "log2",
+					"position": 0
+				},
+                {
+					"type"    : "log2",
+					"position": 8
+				}
+			]
+		},
+        {
+			"type"	 :"water",
+			"speed"  : -100,
+			"objects": [
+				{
+					"type"    : "log1",
+					"position": 1
+				}
+			]
+		},
+        {
+			"type"   : "water",
+			"speed"  : -160,
+			"objects": [
+				{
+					"type"    : "log2",
+					"position": 3
+				},
+                {
+					"type"    : "log2",
+					"position": 10
+				}
+			]
+		},
+        {
+			"type"	 :"water",
+			"speed"  : 140,
+			"objects": [
+				{
+					"type"    : "log1",
+					"position": 0
+				},
+                {
+					"type"    : "log2",
+					"position": 4
+				},
+                {
+					"type"    : "log1",
+					"position": 10
+				}
+			]
+		},
+        {
+			"type"   : "water",
+			"speed"  : 180,
+			"objects": [
+				{
+					"type"    : "log2",
+					"position": 0
+				},
+                {
+					"type"    : "log1",
+					"position": 8
+				},
+                {
+					"type"    : "fly",
+					"position": 8
+				}
+			]
+		},
+        {
+			"type"	 :"water",
+			"speed"  : -120,
+			"objects": [
+				{
+					"type"    : "log1",
+					"position": 1
+				}
+			]
+		},
+        {
+			"type"   : "water",
+			"speed"  : 180,
+			"objects": [
+                {
+					"type"    : "log1",
+					"position": 3
+				},
+                {
+					"type"    : "log1",
+					"position": 10
+				}
+			]
+		},
+		{
+			"type"   : "hedge",
+			"objects": [
+				{
+					"type"    : "exit",
+					"position": 2
+				},
+				{
+					"type"    : "exit",
+					"position": 5
+				},
+				{
+					"type"    : "exit",
+					"position": 8
+				}
+			]
+		}
+	]
+}
