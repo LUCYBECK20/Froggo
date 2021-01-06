@@ -1,0 +1,132 @@
+{ "version"		: 1.0,
+  "size"		: [11,9],
+  "start"		: [5,0],
+  "offscreen"	: 2,
+  "lanes" 		: [
+		{"type":"grass"},
+
+		{
+			"type"   :"road",
+			"speed"  : 170,
+			"objects": [
+				{
+					"type"    : "semitruck",
+					"position": 0
+				},
+                {
+					"type"    : "car1",
+					"position": 8
+				}
+			]
+		},
+        {
+			"type"   : "road",
+			"speed"  : -140,
+			"objects": [
+				{
+					"type"    : "car1",
+					"position": 2
+				},
+				{
+					"type"    : "car2",
+					"position": 6
+				},
+                {
+					"type"    : "car3",
+					"position": 10
+				}
+			]
+		},
+		{
+			"type"   : "road",
+			"speed"  : -180,
+			"objects": [
+				{
+					"type"    : "car1",
+					"position": 4
+				},
+				{
+					"type"    : "truck",
+					"position": 8
+				}
+			]
+		},
+        {
+			"type"   : "road",
+			"speed"  : 150,
+			"objects": [
+				{
+					"type"    : "car1",
+					"position": 2
+				},
+                {
+					"type"    : "car3",
+					"position": 10
+				}
+			]
+		},
+		{
+			"type"   : "road",
+			"speed"  : -190,
+			"objects": [
+				{
+					"type"    : "truck",
+					"position": 5
+				},
+                {
+					"type"    : "car2",
+					"position": 9
+				}
+			]
+		},
+        {
+			"type"   : "road",
+			"speed"  : -160,
+			"objects": [
+				{
+					"type"    : "car1",
+					"position": 2
+				},
+				{
+					"type"    : "car2",
+					"position": 6
+				},
+                {
+					"type"    : "car3",
+					"position": 10
+				}
+			]
+		},
+		{
+			"type"	 :"road",
+			"speed"  : 200,
+			"objects": [
+				{
+					"type"    : "car2",
+					"position": 4
+				},
+				{
+					"type"    : "semitruck",
+					"position": 8
+				}
+			]
+		},
+		{
+			"type"   : "hedge",
+			"objects": [
+				{
+					"type"    : "exit",
+					"position": 2
+				},
+				{
+					"type"    : "exit",
+					"position": 5
+				},
+				{
+					"type"    : "exit",
+					"position": 8
+				}
+			]
+		}
+	]
+}
