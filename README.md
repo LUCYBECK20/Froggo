@@ -19,6 +19,8 @@ If there are less than 3 lives and the frog lands on the fly, one life will be a
 The frog must jump on top of an unoccupied lily pad in a hedge to be safe. 
 All lily pads must be occupied by a safe frog to move on to the next level.
 There are 7 levels in total.
+# Videos
+Click here to view a playlist on youtube with previews of all 7 levels: https://youtube.com/playlist?list=PL4oFuWmD_bSWF9CO4Yglt4EQ9ZP_mkdIL
 # Contact 
 Lucy Beck - lucybeck20@gmail.com
 # Acknowledgements
