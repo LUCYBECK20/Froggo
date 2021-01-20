@@ -2,10 +2,11 @@
 Froggo is a clone of the 1981 arcade game Frogger. 
 # Prerequisites
 Follow these instructions to download Kivy: https://kivy.org/doc/stable/gettingstarted/installation.html
+NOTE: If you are using a Windows PC, you may need to install Kivy on the Anaconda Prompt.
 # Launching Froggo
 Download the code as a ZIP file and extract the file. 
 Change the directory in your command shell to just outside of the extracted Froggo folder.
-Type 'python froggo' on your command line and press enter. 
+Type 'python froggo-main' on your command line and press enter. 
 # How to Play
 Use the up, down, left, and right arrow keys to move the frog.
 The frog is safe in the grass.
@@ -22,7 +23,7 @@ There are 7 levels in total.
 # Videos
 Click here to view a playlist on youtube with previews of all 7 levels: https://youtube.com/playlist?list=PL4oFuWmD_bSWF9CO4Yglt4EQ9ZP_mkdIL
 # Contact 
-Lucy Beck - lucybeck20@gmail.com
+Lucy Beck - lwb47@cornell.edu
 # Acknowledgements
 https://www.clipartkey.com/view/xxboTb_frogger-sprite-sheet/
 https://www.1001freefonts.com/keep-on-truckin.font
