@@ -2,7 +2,10 @@
 Froggo is a clone of the 1981 arcade game Frogger. 
 # Prerequisites
 Follow these instructions to download Kivy: https://kivy.org/doc/stable/gettingstarted/installation.html
-NOTE: If you are using a Windows PC, you may need to install Kivy on the Anaconda Prompt.
+NOTE: Make sure to install the Kivy dependencies by typing the following lines into the command line and pressing enter.
+
+python -m pip install docutils pygments pypiwin32 kivy.deps.sdl2 kivy.deps.glew; 
+python -m pip install kivy.deps.gstreamer
 # Launching Froggo
 Download the code as a ZIP file and extract the file. 
 Change the directory in your command shell to just outside of the extracted Froggo folder.
