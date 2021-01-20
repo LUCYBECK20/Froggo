@@ -5,7 +5,9 @@ Follow these instructions to download Kivy: https://kivy.org/doc/stable/gettings
 
 IMPORTANT: Make sure to follow the instructions for "Installing Kivy’s dependencies" to support video and audio.
 
-For Windows users, open up a terminal and run the following commands in order:
+For Windows users, open up a command shell and run the following commands in order:
+
+python -m pip install kivy[base] kivy_examples
 
 python -m pip install docutils pygments pypiwin32 kivy.deps.sdl2 kivy.deps.glew; 
 
