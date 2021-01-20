@@ -5,6 +5,7 @@ Follow these instructions to download Kivy: https://kivy.org/doc/stable/gettings
 NOTE: Make sure to install the Kivy dependencies by typing the following lines into the command line and pressing enter.
 
 python -m pip install docutils pygments pypiwin32 kivy.deps.sdl2 kivy.deps.glew; 
+
 python -m pip install kivy.deps.gstreamer
 # Launching Froggo
 Download the code as a ZIP file and extract the file. 
