@@ -1,5 +1,5 @@
 # Froggo
-Froggo is a clone of the 1981 arcade game Frogger. 
+Froggo is a clone of the 1981 arcade game Frogger. If you are not familiar with Frogger, you may be familiar with its modern equivalent: Crossy Road.
 # Prerequisites
 Follow these instructions to download Kivy: https://kivy.org/doc/stable/gettingstarted/installation.html
 
