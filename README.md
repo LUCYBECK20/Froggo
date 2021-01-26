@@ -33,8 +33,6 @@ All lily pads must be occupied by a safe frog to move on to the next level.
 There are 7 levels in total.
 # Videos
 Click here to view a playlist on youtube with previews of all 7 levels: [Froggo Game by Lucy Beck](https://youtube.com/playlist?list=PL4oFuWmD_bSWF9CO4Yglt4EQ9ZP_mkdIL)
-# Contact 
-Lucy Beck - lwb47@cornell.edu
 # Acknowledgements
 https://www.clipartkey.com/view/xxboTb_frogger-sprite-sheet/
 https://www.1001freefonts.com/keep-on-truckin.font
