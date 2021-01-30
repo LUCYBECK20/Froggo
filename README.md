@@ -1,5 +1,7 @@
 # Froggo
-Froggo is a clone of the 1981 arcade game Frogger. If you are not familiar with Frogger, you may be familiar with its modern equivalent: Crossy Road.
+Froggo is a clone of the 1981 arcade game Frogger. 
+
+If you are not familiar with Frogger, you may be familiar with its modern equivalent: Crossy Road.
 
 I designed seven levels that support JSON files, audio, 2D graphics with hitboxes, and scheduled events. I also utilized property decorators, generators, and coroutines to create model classes that support 2D animation. All code is written in Python and follows the model-view-controller design pattern. 
 # Prerequisites
