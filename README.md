@@ -8,16 +8,17 @@ Follow these instructions to download Kivy: https://kivy.org/doc/stable/gettings
 IMPORTANT: Make sure to follow the instructions for "Installing Kivy’s dependencies" to support video and audio.
 
 For Windows users, open up a command shell and run the following commands in order:
-
+```
 python -m pip install kivy[base] kivy_examples
 
 python -m pip install docutils pygments pypiwin32 kivy.deps.sdl2 kivy.deps.glew; 
 
 python -m pip install kivy.deps.gstreamer
+```
 # Launching Froggo
 Download the code as a ZIP file and extract the file. 
 Change the directory in your command shell to just outside of the extracted Froggo folder.
-Type 'python froggo-main' on your command line and press enter. 
+Type ```python froggo-main``` on your command line and press enter. 
 # How to Play
 Use the up, down, left, and right arrow keys to move the frog.
 The frog is safe in the grass.
