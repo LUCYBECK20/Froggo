@@ -28,7 +28,7 @@ The frog will die and lose a life if it is hit by a car, drowns in the water, is
 If there are less than 3 lives and the frog lands on a fly, one life will be added.
 The frog must jump on top of an unoccupied lily pad in a hedge to be safe. 
 All lily pads must be occupied by a safe frog to move on to the next level.
-If the player loses all three lives, he or she must restart the level.
+If the player loses all 3 lives, he or she must restart the level.
 There are 7 levels in total.
 # Videos
 Click here to view a playlist on youtube with previews of all 7 levels: [Froggo Game by Lucy Beck](https://youtube.com/playlist?list=PL4oFuWmD_bSWF9CO4Yglt4EQ9ZP_mkdIL)
